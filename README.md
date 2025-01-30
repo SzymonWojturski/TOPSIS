@@ -7,5 +7,5 @@ pip install -r requirements.txt
 ```
 3. Uruchom skrypt `main.py`:
 ```bash
-python3 /main.py
+python3 main.py
 ```
